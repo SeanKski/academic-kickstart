@@ -14,7 +14,7 @@ role: Ph.d. Student Studying Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Purdue University | Office: MSEE 239
+- name: Purdue University Office
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
