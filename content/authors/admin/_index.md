@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-I am computer engineering Ph.D. student at Purdue University studying under Dr. David Inouye and Dr. Saurabh Bagchi. 
+I am computer engineering Ph.D. student at Purdue University studying under Dr. David Inouye.
