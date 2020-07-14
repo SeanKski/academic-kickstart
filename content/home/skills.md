@@ -1,6 +1,6 @@
 +++
 
-Use the insert mode to write something here: 
+# Use the insert mode to write something here: 
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
