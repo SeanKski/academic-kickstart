@@ -1,4 +1,6 @@
 +++
+
+Use the insert mode to write something here: 
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -15,13 +17,13 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python"
+  description = "Numpy, Pandas, SciKit-learn, Pytorch, NetworkX"
   
 [[feature]]
-  icon = "chart-line"
+  icon = ""
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
