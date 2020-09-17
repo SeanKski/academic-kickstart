@@ -12,7 +12,7 @@
 theme = "ocean"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -81,8 +81,8 @@ edit_page = {repo_url = "https://github.com/skulinsk/hugo-academic", content_dir
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "skulinsk@gmail.com"
-phone = "773 844 4447"
+email = "smkulinski@gmail.com"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
