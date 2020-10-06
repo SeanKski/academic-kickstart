@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Feature Shift Detection: Localizing Which Feature Have Shifted via Conditional Distribution Test"
+title: "Feature Shift Detection: Localizing Which Features Have Shifted via Conditional Distribution Test"
 authors: [Sean M. Kulinski, Saurabh Bagchi, David I. Inouye]
 date: 2020-10-06T17:47:22-04:00
 doi: ""
