@@ -23,15 +23,15 @@ subtitle = ""
   description = "Numpy, Pandas, SciKit-learn, Pytorch, NetworkX"
   
 [[feature]]
-  icon = ""
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "open-data"
+  icon_pack = "ai"
+  name = "Machine Learning"
+  description = "Generative Modeling, Statistical Machine Learning, Domain Shift Detection, Domain Adaptation (beginner)"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Computer Science"
+  description = "Robust Algorithms, working with HPC,  Embedded Systems"
 
 +++
