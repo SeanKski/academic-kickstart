@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data science and machine learning with generative modeling and anamoly detection.
+bio: My research interests include data science and machine learning with generative modeling and distribution shift detection and all that comes with it.
 
 interests:
 - Artificial Intelligence
@@ -64,4 +64,9 @@ user_groups:
 - Visitors
 ---
 
-I am computer engineering Ph.D. student at Purdue University studying under Dr. David Inouye.
+I am computer engineering Ph.D. student at Purdue University studying under Dr. David Inouye. Currently I am working on the problem of distribution shift detection and characterization (and possibly remediation). 
+I am also piloting a tutorial style Machine Learning (ML) reading group covering various ML topics such as Optimal Transport.
+
+In addition to my research, some things I enjoy (in no particular order) are: hiking/backpacking, mountain biking, spending time with friends and family, having spirited debates on frivalous topics, and figuring out how things work.
+If you are interested in any of my work or just want to have a chat, please reach out via my email at the bottom of this page! 
+
