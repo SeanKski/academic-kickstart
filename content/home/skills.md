@@ -23,8 +23,8 @@ subtitle = ""
   description = "Numpy, Pandas, SciKit-learn, Pytorch, NetworkX"
   
 [[feature]]
-  icon = "open-data"
-  icon_pack = "ai"
+  icon = "site-map"
+  icon_pack = "fas"
   name = "Machine Learning"
   description = "Generative Modeling, Statistical Machine Learning, Domain Shift Detection, Domain Adaptation (beginner)"
   
