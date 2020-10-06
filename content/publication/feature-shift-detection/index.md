@@ -13,7 +13,7 @@ publishDate: 2020-10-06T14:06:43-04:00
 # Legend; 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: "[1, 3]"
+publication_types: "1"
 
 # Publication name and optional abbreviated publication name.
 publication: "Neural Information Processing Systems"
@@ -68,4 +68,4 @@ projects: []
 slides: ""
 ---
 
-Our paper can be found via the PDF icon!
+Our paper can be found via the PDF icon! Please reach out if you have any questions. We will release the code around the time the paper is published in the NeurIPS 2020 proceedings. Cheers :)
