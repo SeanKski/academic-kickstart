@@ -24,7 +24,7 @@ subtitle = ""
   
 [[feature]]
   icon = "sitemap"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Machine Learning"
   description = "Generative Modeling, Statistical Machine Learning, Domain Shift Detection, Domain Adaptation (beginner)"
   
