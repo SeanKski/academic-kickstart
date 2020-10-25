@@ -65,9 +65,10 @@ user_groups:
 - Visitors
 ---
 
-I am computer engineering Ph.D. student at Purdue University studying under Dr. David Inouye. Currently I am working on the problem of distribution shift detection, characterization, and (when possible) remediation. 
+I am a computer engineering Ph.D. student at Purdue University studying under Dr. David Inouye. Currently I am working on the problem of distribution shift detection, characterization, and (when possible) remediation. 
 I am also piloting a tutorial style Machine Learning (ML) reading group covering various ML topics such as Optimal Transport.
 
-In addition to my research, some things I enjoy (in no particular order) are: hiking/backpacking, mountain biking, spending time with friends and family, having spirited debates on frivalous topics, and figuring out how things work.
+In addition to my research, some things I enjoy (in no particular order) are:
+ hiking/backpacking, mountain biking, spending time with friends and family, having spirited debates on frivolous topics, and figuring out how things work.
 If you are interested in any of my work or just want to have a chat, please reach out via my email at the bottom of this page! 
 
