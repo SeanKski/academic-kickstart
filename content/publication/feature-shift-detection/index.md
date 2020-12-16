@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code:
+url_code: https://github.com/SeanKski/feature-shift
 url_dataset:
 url_poster:
 url_project:
@@ -50,7 +50,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Associated Projects (optional).
