@@ -26,7 +26,7 @@ subtitle = ""
   icon = "sitemap"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Generative Modeling, Statistical Machine Learning, Domain Shift Detection, Domain Adaptation (beginner)"
+  description = "Generative Modeling, Statistical Machine Learning, Distribution Shift Detection, Domain Adaptation (beginner)"
   
 [[feature]]
   icon = "laptop-code"

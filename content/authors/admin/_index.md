@@ -24,7 +24,7 @@ interests:
 - Artificial Intelligence
 - Generative Modeling
 - Distribution Shift
-- Anomaly Detection
+- Domain Adaptation
 
 education:
   courses:
